@@ -10,7 +10,7 @@ for (let i = 0; i < myNodelist.length; i++) {
 
   const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
-  myNodelist[i].style.color = "ewr";
+  myNodelist[i].style.color = "eywr";
 }
 
   if (event.altKey) {
