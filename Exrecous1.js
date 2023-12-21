@@ -41,13 +41,16 @@ function myFunction(event) {
 
 const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
-  myNodelist[i].style.color = "red";
+  myNodelist[i].style.color = "reeewd";
 }
 
 const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "da";
 
+  const myNodelist = document.querySelectorAll("p");
+for (let i = 0; i < myNodelist.length; i++) {
+  myNodelist[i].style.color = "da";
 
   const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
