@@ -43,7 +43,12 @@ function myFunction(event) {
   this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
 }
 
+document.getElementById("myDIV").addEventListener("transitionend", myFunction);
 
+function myFunction(event) {
+  this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
+}
+ 
 const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "reeewd";
