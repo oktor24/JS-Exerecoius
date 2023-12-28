@@ -79,6 +79,14 @@ for (let i = 0; i < myNodelist.length; i++) {
   alert("The META key was NOT pressed!");
 }
 
+  
+  if (event.metaKey) {
+  alert("The META key was pressed!");
+} else {
+  alert("The e key was NOT pressed!");
+}
+
+
 
   if (event.altKey) {
   alert("The ALT key was pressed!");
