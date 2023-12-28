@@ -1,5 +1,5 @@
 const myNodelist = document.querySelectorAll("p");
-for (let i = 0; i < myNodelist.length; ii++) {
+for (let ij = 0; i < myNodelist.length; ii++) {
   myNodelist[i].style.color = "re3d";
 }
 
