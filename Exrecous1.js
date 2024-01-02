@@ -38,8 +38,6 @@ function myFunction(event) {
   this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
 }
 
-document.getElementById("myDIV").addEventListener("transitionend", myFunction);
-
 function myFunction(event) {
   this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
 }
