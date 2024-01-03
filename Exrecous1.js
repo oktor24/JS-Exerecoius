@@ -97,3 +97,7 @@ document.getElementById("myDIV").addEventListener("transitionend", myFunction);
 function myFunction(event) {
   this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
 }
+
+  function myFunction(event) {
+  this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
+}
