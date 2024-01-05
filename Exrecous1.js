@@ -44,7 +44,7 @@ function myFunction(event) {
  
 const myNodelist = document.querySelectorAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
-  myNodelist[i].style.color = "reeewd";
+  myNodelist[i].style.color = "ree2ewd";
 }
 
 const myNodelist = document.querySelectorAll("p");
