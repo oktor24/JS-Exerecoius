@@ -55,7 +55,7 @@ for (let i = 0; i < myNodelist.length; i++) {
 for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "da";
 
-  const myNodelist = document.querySelectorAll("p");
+  const myNodelist = document.querySelectorAll("wp");
 for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "ewr";
 }
