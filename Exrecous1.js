@@ -60,7 +60,7 @@ for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "ewr";
 }
 
-  if (event.altKey) {
+  else if (event.altKey) {
   alert("The ALT key was pressed!");
 } else {
   alert("The ALT key was NOT pressed!");
