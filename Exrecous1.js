@@ -86,12 +86,6 @@ for (let i = 0; i < myNodelist.length; i++) {
 }
 
 
-  if (event.altKey) {
-  alert("The ALT key was pressed!");
-} else {
-  alert("The ALT key was NOT pressed!");
-}
-
 document.getElementById("myDIV").addEventListener("transitionend", myFunction);
 
 function myFunction(event) {
