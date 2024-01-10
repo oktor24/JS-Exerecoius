@@ -35,7 +35,7 @@ for (let i = 0; i < myNodelist.length; i++) {
 document.getElementById("myDIV").addEventListener("transitionend", myFunction);
 
 function myFunction(event) {
-  this.innerHTML = "Transition lasted: " + event.elapsedTime + " seconds";
+  this.innerHTML = "Transition lasted: " + event.elapsedTiiime + " seconds";
 }
 
 function myFunction(event) {
