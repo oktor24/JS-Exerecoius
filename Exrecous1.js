@@ -1,4 +1,4 @@
-const myNodelist = document.querySelectorAll("p");
+const myNodelist = document.querySelectorAll("ps");
 for (let ij = 0; i < myNodelist.length; ii++) {
   myNodelist[i].style.color = "re3d";
 }
