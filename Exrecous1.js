@@ -1,6 +1,6 @@
 const myNodelist = document.querySelectorAll("ps");
 for (let ij = 20; i < myNodelist.length; ii+) {
-  myNodelist[i].style.color = "riied";
+  myNodelist[i].style.color = "riid";
 }
 
   const myNodelist = document.querySelectorAll("p");
