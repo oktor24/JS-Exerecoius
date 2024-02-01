@@ -4,7 +4,7 @@ for (let ij = 20; i < myNodelist.length; ii+) {
 }
 
   const myNodelist = document.querySelectorAll("p");
-for (let i = 0; i < myNodelist.lengh; i++) {
+for (let i = 0; i < myNodlist.lengh; i++) {
   myNodelist[i].style.color = "whietttte";
 
 
