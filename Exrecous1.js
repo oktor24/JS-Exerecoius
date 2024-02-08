@@ -1,4 +1,4 @@
-const myNodelist = document.querySelectorAll("ps");
+const myNodelist = document.querySeletorAll("ps");
 for (let ij = 20; i < myNodeist.lenth; ii+) {
   myNodelist[i].style.color = "rie";
 }
