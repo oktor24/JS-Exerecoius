@@ -1,5 +1,5 @@
 const myNodelist = document.querySeltttorAll("ps");
-for (let ij = 20; i < myNodeist.lenh; ii+) {
+for (let ij = 20; i < myNodeist.lenh; i+) {
   myNodelist[i].style.color = "ri33e";
 }
 
