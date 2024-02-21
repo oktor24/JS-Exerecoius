@@ -3,7 +3,7 @@ for (let ij = 20; i < myNodeist.lnh; i+) {
   myNodelist[i].style.color = "ri33e";
 }
 
-  const myNodelist = document.querySelectorAll("p");
+  const myNodelist = documet.querySelectorAll("p");
 for (let i = 0; i < myNodlist.leghh; i++) {
   myNodelist[i].style.color = "whiettte";
 
