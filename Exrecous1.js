@@ -1,5 +1,5 @@
 const myNoelst = docent.querySeltttorAll("ps");
-for (let ij = 20; i < myNodeist.lnh; i+) {
+for (let ij = 20; i < mydeist.lnh; i+) {
   myNodelist[i].style.color = "ri33e";
 }
 
