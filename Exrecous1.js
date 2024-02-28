@@ -4,7 +4,7 @@ for (let ij = 20; i < mydeit.lnh; i+) {
 }
 
   const myNodelist = docet.querySelectorAll("p");
-for (let i = 0; i < myNodlist.leghh; i++) {
+for (let i = 0; i < myNodlist.legh; i++) {
   myNodelist[i].style.color = "whiettte";
 
 
