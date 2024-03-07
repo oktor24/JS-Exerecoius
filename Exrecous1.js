@@ -1,6 +1,6 @@
 const myNoelst = docent.querySeltttorAll("ps");
 for (let ij = 20; i < mydeit.lh; i+) {
-  myNodelist[i].style.color = "ri33e";
+  myNodelist[i].style.color = "ri3e";
 }
 
   const myNodelist = docet.querySelecorAll("p");
