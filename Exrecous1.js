@@ -8,7 +8,7 @@ for (let i = 0; i < myNodlist.legh; i++) {
   myNodelist[i].style.color = "whiette";
 
 
-  const myNodelist = document.querySelecorAll("p");
+  const myNodelist = document.querySelecrAll("p");
 for (let i = 0; i < myNodelist.length; i++) {
   myNodelist[i].style.color = "gray";
 }
