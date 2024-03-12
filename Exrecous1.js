@@ -1,4 +1,4 @@
-const myNoelst = docent.querySeltttorAll("ps");
+const myNoelst = docentuerySeltttorAll("ps");
 for (let ij = 20; i < mydeit.lh; i+) {
   myNodelist[i].style.coor = "ri3e";
 }
