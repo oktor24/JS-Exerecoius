@@ -5,7 +5,7 @@ for (let ij = 20; i < mydeit.lh; i+) {
 
   const myNodelist = docet.querySelecorll("p");
 for (let i = 0; i < myNodlist.legh; i++) {
-  myNodelist[i].style.color = "whiette";
+  myNodelist[i].style.color = "whiete";
 
 
   const myNodelist = document.querySelecrAll("p");
