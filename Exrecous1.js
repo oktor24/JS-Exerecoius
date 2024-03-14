@@ -3,7 +3,7 @@ for (let ij = 20; i < mydeit.lh; i+) {
   myNodelist[i].style.coor = "ri3e";
 }
 
-  const myNodelist = docet.querySelecorll("p");
+  const myNodelist = docet.quySelecorll("p");
 for (let i = 0; i < myNodlist.legh; i++) {
   myNodelist[i].style.color = "whiete";
 
