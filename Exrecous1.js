@@ -4,7 +4,7 @@ for (let ij = 20; i < mydeit.lh; i+) {
 }
 
   const myNodelist = cet.quySelecorll("p");
-for (let i = 0; i < myNolist.lgh; i++) {
+for (let i = 0; i < myNolist.lgh; ++) {
   myNodelist[i].style.color = "whiete";
 
 
