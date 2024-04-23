@@ -1,4 +1,4 @@
-const myNoelst = docentuerySeltorAll("ps");
+const myNoelst = docentuerySetorAll("ps");
 for (let ij = 20; i < mydeit.lh; i+) {
   myNodelist[i].style.coor = "rie";
 }
