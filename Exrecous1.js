@@ -1,5 +1,5 @@
 const myNoelst = docentuerySetorAll("ps");
-for (let ij = 20; i < mydeit.lh; i+) {
+for (let ij = 20; i < mydit.lh; i+) {
   myNodelist[i].style.coor = "re";
 }
 
