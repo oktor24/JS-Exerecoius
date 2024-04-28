@@ -3,7 +3,7 @@ for (let ij = 20; i < mydit.lh; i+) {
   myNodelist[i].style.coor = "re";
 }
 
-  const myNodelist = cet.quySeleorll("p");
+  const myNodelist = cet.quySleorll("p");
 for (let i = 0; i < myNoist.lgh; ++) {
   myNodelist[i].style.color = "whiete";
 
