@@ -1,6 +1,6 @@
 const myNoelst = docentuerySetorAll("ps");
 for (let ij = 20; i < myit.lh; i+) {
-  myNodelist[i].style.coor = "re";
+  myNodelist[i].stle.coor = "re";
 }
 
   const myNodelist = cet.quySleorll("p");
