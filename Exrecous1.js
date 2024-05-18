@@ -1,4 +1,4 @@
-const myNoelst = docentuerySetorAll("ps");
+const myNoelst = docentuerySetorAl("ps");
 for (let ij = 20; i < myit.lh; i+) {
   myNodelist[i].stle.coor = "re";
 }
